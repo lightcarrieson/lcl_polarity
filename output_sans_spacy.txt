@@ -1,0 +1,33 @@
+Some people consider that journalists should be given full liberty of speech, others however think that free information with censorship at all can hurt people's feelings.	NEGATIVE	at all
+On the other hand, a city, which consists of numerous concrete boxes, looses his appearance at all.	NEGATIVE	at all
+We should reduce the number of experiments now and later renounce them at all.	NEGATIVE	at all
+It is not veryconvincing that the speakers' intuition can be a significant criterion at all.	NEGATIVE	at all
+As a matter of fact, everyone has ever hadto give public speeches.	NEGATIVE	ever
+When it happen, we won't need to build roads and highways anymore.	NEGATIVE	anymore
+This concept, as he adds, involves the analysis of sense of a lexeme into its component parts and, what is more, is only recently has been employed at all extensively by linguists.	NEGATIVE	at all
+ The report gathered information from the following sources: - The survey was conducted among 120 participants, who ever tried at least once a kind of treatment with aloe.	NEGATIVE	ever
+At the same time, some of these changes are becoming normal with the time and do not seem weird or strange anymore.	NEGATIVE	anymore
+In the past there were no overweight and obese people at all.	NEGATIVE	at all
+And it is easy to understand that most of these people being constantly mocked because of the place or a group they study in will lose any motivation to study at all.	NEGATIVE	at all
+On the other hand, it is too early to decide at primary school whether to learn a particular language or not - moreover, if a pupil takes no interest in langage-teaching at primay school (for example, english or French just don't appeal to him/her), but he/she is always made do the homework, this pupil is likely to lose any interest for learning languages at all.	NEGATIVE	at all
+What's more, people get used to not doing some things so much that they can forget how to do them at all.	NEGATIVE	at all
+They also say that person who goes shopping frequently does not purchase items he or she needs at all; they, basically, buy things to go through the purchasing process again and again.	NEGATIVE	at all
+He can’t lie because “a lie is when you say something happened which didn't happen, but there is only ever one thing which happened at a particular time and a particular place“.	NEGATIVE	ever
+ All that need be said is that the story never goes where you expect it too and the final twists — while seeming a bit outlandish at first — ultimately make a great deal of somewhat sickening sense.	POSITIVE	too	TRIGGER	never
+ For example, the review on “Three Men in a Boat (to say nothing of the dog)” is, in my opinion, written for people who have  not already read the original.	POSITIVE	already	TRIGGER	not
+May be the experienced audience is also the reason for not  describing the whole plot cause readers already know it.	POSITIVE	already	TRIGGER	not
+ To make a conclusion, I would like to underline the variety of book reviews at all and the difference between the given ones  in particular.	NEGATIVE	at all
+As a result, unwilling to stay hungry anymore, they either change their profession or, in some tragic cases, end their life.	NEGATIVE	anymore
+To conclude, I would recommend this book to all under eighteen years old teenagers (because it’s a good young adult fiction) and to all people, who is not already sick of cancer stories (because it’s important to read not only books with happy ends but depressing one also and, after all, this book is a good cancer story).	POSITIVE	already	TRIGGER	not
+ Here we see table presenting the number of children ever born to women aged 40-44 years in Australia for each year the information was collected since 1981.	NEGATIVE	ever
+However keep watching over the table we see that unfortunately level of women who don't have children at all rises too.	POSITIVE	too	TRIGGER	n't
+Parents don't want to try walking in shoes of their children, they don't remember already that time, when they were teens and needed more freedom than before, in childhood.	POSITIVE	already	TRIGGER	n't
+Also, a few words about Kubrick’s film: I don’t like it too.	POSITIVE	too	TRIGGER	n’t
+His paradoxical, contradictory thinking imbued with criticism at all of English society.	NEGATIVE	at all
+ A glance at the table reflects some considerable changes in the conventional number of children ever born to women aged 40-45 years which have been happening during the last decade in Australia.	NEGATIVE	ever
+From this point of view, systematization and frameworks do not look as something obviously bad anymore.	NEGATIVE	anymore
+It presents the number of children ever born to 40-44-year-old women in 1981, 1986, 1996 and 2006 year.	NEGATIVE	ever
+Some of them get rid of real departments at all concentrating exclusively on their websites.	NEGATIVE	at all
+And the diversity of internet languages can’t be overlooked too, there are so many interesting “dialects” like leetspeak or olbanian.	POSITIVE	too	TRIGGER	n’t
+“Calico Joe” is not an exception too.	POSITIVE	too	TRIGGER	not
+Beside that, probably, I would have understood how boring economics is and would have give up studies at all to have a gap year.	NEGATIVE	at all

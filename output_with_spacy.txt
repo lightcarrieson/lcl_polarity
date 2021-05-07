@@ -1,16 +1,24 @@
-Some people consider that journalists should be given full liberty of speech, others however think that free information with censorship at all can hurt people's feelings.	NEGATIVE	at all
-On the other hand, a city, which consists of numerous concrete boxes, looses his appearance at all.	NEGATIVE	at all
-We should reduce the number of experiments now and later renounce them at all.	NEGATIVE	at all
-The main point of those, who are for the cheap houses, is that many people nowadays have no home at all and even more people do not have enoughmoney to buy a well-designed and decorated house.	NEGATIVE	at all
-First, there are some words the derivation of which is unknown at all.	NEGATIVE	at all
-It is not veryconvincing that the speakers' intuition can be a significant criterion at all.	NEGATIVE	at all
-This concept, as he adds, involves the analysis of sense of a lexeme into its component parts and, what is more, is only recently has been employed at all extensively by linguists.	NEGATIVE	at all
-And it is easy to understand that most of these people being constantly mocked because of the place or a group they study in will lose any motivation to study at all.	NEGATIVE	at all
-What's more, people get used to not doing some things so much that they can forget how to do them at all.	NEGATIVE	at all
-They also say that person who goes shopping frequently does not purchase items he or she needs at all; they, basically, buy things to go through the purchasing process again and again.	NEGATIVE	at all
- To make a conclusion, I would like to underline the variety of book reviews at all and the difference between the given ones  in particular.	NEGATIVE	at all
-As a result, unwilling to stay hungry anymore, they either change their profession or, in some tragic cases, end their life.	NEGATIVE	anymore
-His paradoxical, contradictory thinking imbued with criticism at all of English society.	NEGATIVE	at all
-Some of them get rid of real departments at all concentrating exclusively on their websites.	NEGATIVE	at all
-People do not even have to leave their houses to buy the things they need anymore, everything is just one click away whether it is food, clothes or anything else.	NEGATIVE	anymore
-Beside that, probably, I would have understood how boring economics is and would have give up studies at all to have a gap year.	NEGATIVE	at all
+Some people consider that journalists should be given full liberty of speech, others however think that free information with censorship at all can hurt people's feelings.	NEGATIVE:at all
+On the other hand, a city, which consists of numerous concrete boxes, looses his appearance at all.	NEGATIVE:at all
+In some countries like Italy people think much about look of thinks while in other countries likeGermany people appreciate first of all high quality and reliability of items they use in everyday life.	NEGATIVE:think much 
+We should reduce the number of experiments now and later renounce them at all.	NEGATIVE:at all
+First, there are some words the derivation of which is unknown at all.	NEGATIVE:at all
+It is not veryconvincing that the speakers' intuition can be a significant criterion at all.	NEGATIVE:at all
+This concept, as he adds, involves the analysis of sense of a lexeme into its component parts and, what is more, is only recently has been employed at all extensively by linguists.	NEGATIVE:at all
+What's more, people get used to not doing some things so much that they can forget how to do them at all.	NEGATIVE:at all
+Thanks to technology our lives have become easier - if we need to conduct research for school we do not even have to leave our houses, because we can get all the necessary information on our computers whenever and wherever we want, without paying and using the wifi connection already free almost everywhere.	POSITIVE:already	TRIGGER:not
+They also say that person who goes shopping frequently does not purchase items he or she needs at all; they, basically, buy things to go through the purchasing process again and again.	NEGATIVE:at all
+ On the other hand, i believe that a well payed, even not loved, job deffinately leads to a better life too.	POSITIVE:too	TRIGGER:not
+ For example, the review on “Three Men in a Boat (to say nothing of the dog)” is, in my opinion, written for people who have  not already read the original.	POSITIVE:already	TRIGGER:nothing
+ To make a conclusion, I would like to underline the variety of book reviews at all and the difference between the given ones  in particular.	NEGATIVE:at all
+To conclude, I would recommend this book to all under eighteen years old teenagers (because it’s a good young adult fiction) and to all people, who is not already sick of cancer stories (because it’s important to read not only books with happy ends but depressing one also and, after all, this book is a good cancer story).	POSITIVE:already	TRIGGER:not
+And exactly this happened to Bruno`s father, who divided people into normal ones and Jews, whom he didn`t consider people at all.	NEGATIVE:at all
+Parents don't want to try walking in shoes of their children, they don't remember already that time, when they were teens and needed more freedom than before, in childhood.	POSITIVE:already	TRIGGER:n't
+Also, a few words about Kubrick’s film: I don’t like it too.	POSITIVE:too	TRIGGER:n’t
+His paradoxical, contradictory thinking imbued with criticism at all of English society.	NEGATIVE:at all
+7)Hardly had I fallen asleep when the alarm rang and it was already the time to get up.	POSITIVE:already	TRIGGER:Hardly
+Some of them get rid of real departments at all concentrating exclusively on their websites.	NEGATIVE:at all
+And the diversity of internet languages can’t be overlooked too, there are so many interesting “dialects” like leetspeak or olbanian.	POSITIVE:too	TRIGGER:n’t
+Therefore, the Indonesian respondents did not find the difference between two actions, kicking and already kicked.	POSITIVE:already	TRIGGER:not
+“Calico Joe” is not an exception too.	POSITIVE:too	TRIGGER:not
+Beside that, probably, I would have understood how boring economics is and would have give up studies at all to have a gap year.	NEGATIVE:at all
